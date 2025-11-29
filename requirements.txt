@@ -1,0 +1,5 @@
+flask
+numpy
+opencv-python
+pillow
+ultralytics # Essential for reliable post-processing of .pt model
